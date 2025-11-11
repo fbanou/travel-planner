@@ -20,7 +20,7 @@ This repository contains the thesis report and the packaged frontend/backend imp
 
 ## ⚙ Technologies
 
-- **Frontend:** React Native  
+- **Frontend:** React Native, Expo  
 - **Backend:** Node.js, Express  
 - **Database:** MongoDB  
-- **Other Tools:** Mongoose, JWT, Axios
+- **Other Tools:** JWT, Axios, Google APIs, Gemini
