@@ -18,7 +18,7 @@ This repository contains the thesis report and the packaged frontend/backend imp
   
 ---
 
-## 🏗️ Tech Stack
+## ⚙ Technologies
 
 - **Frontend:** React Native  
 - **Backend:** Node.js, Express  
